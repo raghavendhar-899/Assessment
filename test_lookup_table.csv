@@ -7,7 +7,7 @@ dstport,protocol,tag
 22,tcp,sv_P4
 3389,tcp,sv_P5
 0,icmp,sv_P5
-110,tcp,email
+110,TCP,email
 993,tcp,email
 143,tcp,email
 80,tcp,web
